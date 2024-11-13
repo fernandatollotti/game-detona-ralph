@@ -31,15 +31,13 @@ Para jogar o **Game: Detona Ralph** em sua máquina:
 1. Clone este repositório:
    ```bash
    git clone https://github.com/fernandatollotti/game-detona-ralph.git
-   
 2. Navegue até o diretório do projeto:
    ```
    cd game-detona-ralph
-   
 3. Abra o arquivo `index.html` no seu navegador.
 
 ## 🌟 Créditos
-O jogo foi desenvolvido como parte de um projeto educacional da [!Digital Innovation One](https://web.dio.me/).
+O jogo foi desenvolvido como parte de um projeto educacional da [Digital Innovation One](https://web.dio.me/).
 
 ## 📜 Licença
 Projeto está licenciado sob a [MIT License](https://github.com/fernandatollotti/game-detona-ralph?tab=MIT-1-ov-file).
