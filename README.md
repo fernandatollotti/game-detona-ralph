@@ -27,7 +27,7 @@ Utilizar HTML, CSS e JavaScript para criar um jogo baseado no filme **Detona Ral
 4. Quando o tempo acabar, o jogo exibe a pontuação final; ao perder todas as vidas, o jogo será reiniciado.
 
 ## 📦 Como usar
-Para jogar o **Game: Detona Ralph** em sua máquina:
+Para jogar o **Game Detona Ralph** em sua máquina:
 1. Clone este repositório:
    ```bash
    git clone https://github.com/fernandatollotti/game-detona-ralph.git
